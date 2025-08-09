@@ -89,5 +89,5 @@ Compare Netflix with other streaming platforms.
 
 👨‍💻 Author
 Nitesh
-📧 Contact: niteshvbhoye@gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/nitesh-bhoye-567a2414a/
+-📧 Contact: niteshvbhoye@gmail.com
+-🔗 LinkedIn: https://www.linkedin.com/in/nitesh-bhoye-567a2414a/
